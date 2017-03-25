@@ -16,4 +16,3 @@
 
 ## Run
 ```mvn jetty:run```
-# LoginExampleWithSpring
